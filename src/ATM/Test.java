@@ -5,6 +5,7 @@ public class Test {
         ATM atm = new ATM();
         System.out.println("欢迎使用ATM取款机");
         System.out.println("请输入一句话啊");
+        System.out.println("请输入卡号");
         atm.start();
     }
 }
